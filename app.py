@@ -9,7 +9,7 @@ parser.add_argument("--amount" , required= True , help = "Add the amount which y
 
 args = parser.parse_args()
 
-api = "9220769307023feca246520f"
+api = "9220***************46520f"
 
 currency = (args.currency).upper()
 
